@@ -8,8 +8,7 @@ Ravishing Beauty is a fully responsive eCommerce website with maximum compatibil
 
 ## Demo
 
-![Ravishing Beauty Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Ravishing Beauty Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+
 
 
 ## Contact
